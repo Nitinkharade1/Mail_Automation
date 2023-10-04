@@ -1,4 +1,5 @@
 #Email Automation with PDF Attachment
+
 This Python script automates the process of sending emails to a list of recipients with a PDF attachment. It uses the smtplib library to send emails via Gmail's SMTP server and the schedule library to schedule the emails to be sent at regular intervals.
 
 #Features
